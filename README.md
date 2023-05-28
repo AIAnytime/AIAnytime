@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 This is AI Anytime's GitHub. You can find all the repositories of the code here that has been discussed on the AI Anytime YouTube Channel.
 
-<!--
-**AIAnytime/AIAnytime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>My YouTube Channel Link -    </b>
+  <a href="https://www.youtube.com/channel/UC-zVytOQB62OwMhKRi0TDvg" target="_blank">
+  <img height="30"
+    alt="Youtube"
+    src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
+  />
+</a>
+<b>      (Subscribe to stay updated on new videos and courses)   </b>
+<br/><br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
