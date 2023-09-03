@@ -10,8 +10,6 @@
 <b>      (Subscribe to stay updated on new videos and courses)   </b>
 <br/><br/>
 
-[![AI Anytime's GitHub stats](https://github-readme-stats.vercel.app/api?username=AIAnytime)](https://github.com/AIAnytime/github-readme-stats)
-
 
 
 
