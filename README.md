@@ -10,3 +10,8 @@
 <a href="https://discord.com/invite/aianytime" target="_blank">
   <img height="30" alt="Discord" src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"/>
 </a>
+
+**Follow us on LinkedIn -**
+<a href="https://www.linkedin.com/company/ai-anytime/" target="_blank">
+  <img height="30" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
+</a>
