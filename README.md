@@ -5,7 +5,7 @@ GET THE AI ENGINEER ROADMAP 2027 HERE: https://airoadmap.shop/
 
 **Sonu Kumar**
 
-1. Founder of Kodryx AI: https://www.kodryx.ai/
+1. Founder of AI Anytime: https://aianytime.net/
 2. Former Founder of Sporo Health (USA): https://info.sporo.health/
 3. AI Educator (YouTube): https://www.youtube.com/@AIAnytime
 4. Speaker on Generative AI & Applied AI
