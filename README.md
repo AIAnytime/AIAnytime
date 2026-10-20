@@ -15,9 +15,9 @@ Building AI products, communities, and learning ecosystems.
 
 ## AI Anytime Impact
 
-- 🎥 500+ AI Tutorials Published on YT
+- 🎥 900+ AI Tutorials Published on YT
 - 👥 100,000+ AI Learners Reached
-- 200+ GitHub Repo
+- 300+ GitHub Repo
 - 🏫 Conducted AI Workshops & FDPs Across Universities/Academia
 - 🤖 Built and Open-Sourced AI
 - 🌍 Community Members Across Multiple Countries
